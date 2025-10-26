@@ -1,1 +1,0 @@
-"The Clinic_App is designed to help our community easily request clinic services by submitting a queue number and preferred date. Its goal is to assist sick individuals in securing service ahead of their physical visit." 
